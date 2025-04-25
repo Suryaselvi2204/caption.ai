@@ -1,0 +1,7 @@
+/your-project
+├── .env.local
+├── /pages
+│   └── /api
+│       └── generate-captions.js
+├── /public
+└── package.json
